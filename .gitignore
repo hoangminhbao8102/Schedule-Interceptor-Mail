@@ -1,1 +1,27 @@
+# Maven
 /SpringbootScheduleInterceptorMail/target/
+/pom.xml.tag
+/pom.xml.releaseBackup
+/pom.xml.versionsBackup
+/release.properties
+
+# IDEs
+/.project
+/.classpath
+/.settings/
+/.idea/
+/*.iml
+/.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Spring
+/spring.log
+
+# Others
+node_modules/
